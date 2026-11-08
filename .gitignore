@@ -1,0 +1,28 @@
+
+# Dataset
+data/elliptic/raw/
+
+# Saved models
+models/*.pkl
+models/*.pth
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+
+# Operating system
+.DS_Store
+Thumbs.db
