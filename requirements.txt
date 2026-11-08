@@ -1,8 +1,6 @@
+fastapi
+uvicorn
 pandas
 numpy
 scikit-learn
-torch
-torch-geometric
-fastapi
-uvicorn
 joblib
